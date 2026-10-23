@@ -1,0 +1,8 @@
+{
+  "name": "SENA InnovaAprende - Prototipo Educativo Inteligente",
+  "description": "Plataforma educativa inteligente e interactiva con gamificación, simulación y tutoría con IA para la apropiación integral del programa Gestión del Desarrollo Administrativo e Innovación (122153) y proyecto INNOVAGESTIÓN del SENA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
